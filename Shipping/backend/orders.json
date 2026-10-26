@@ -1,0 +1,19 @@
+[
+  {
+    "order_id": "ord_20261026222227",
+    "customer_id": "",
+    "customer_email": "mohamadmellal@ddgdh.com",
+    "customer_name": "Mohamad mellal",
+    "product_name": "مجسم هولو نايت (x1)",
+    "quantity": 1,
+    "product_price": 350,
+    "total_amount": 350,
+    "status": "نشط",
+    "address": "2783837",
+    "phone": "78338373",
+    "area": "27272",
+    "state": "02 - الشلف",
+    "country": "الجزائر",
+    "payment_method": "الدفع عند الاستلام"
+  }
+]

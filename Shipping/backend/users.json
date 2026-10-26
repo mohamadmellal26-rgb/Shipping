@@ -1,0 +1,106 @@
+[
+  {
+    "id": "1",
+    "name": "مدير النظام",
+    "email": "admin@system.com",
+    "password": "admin123",
+    "is_admin": true,
+    "is_banned": false
+  },
+  {
+    "id": "1793045155384",
+    "name": "يل",
+    "email": "يل",
+    "password": "يل",
+    "is_admin": false,
+    "is_banned": true
+  },
+  {
+    "id": "1793045196557",
+    "name": "gdggd",
+    "email": "dgdgg@Ggd.ocm",
+    "password": "dfgfhfhyruf",
+    "is_admin": false,
+    "is_banned": true
+  },
+  {
+    "id": "1793045286634",
+    "name": "hdhd",
+    "email": "dhdh@Hdh.com",
+    "password": "dhfyyfurijf",
+    "is_admin": false,
+    "is_banned": true
+  },
+  {
+    "id": "1793045485199",
+    "name": "dgdgd",
+    "email": "dgdg@Gfd.com",
+    "password": "dhfhfg4675",
+    "is_admin": false,
+    "is_banned": true
+  },
+  {
+    "id": "usr_20261026211847",
+    "name": "fatoh",
+    "email": "sgdh@ggdd.com",
+    "password": "$2a$10$vsu6JZAD0/6BWFtkloRZeevx11vLSmjlQNUF6.1AiRbihT9KibWhe",
+    "is_admin": false,
+    "is_banned": false
+  },
+  {
+    "id": "usr_20261026212143",
+    "name": "dgfhf",
+    "email": "gdfhfh@gd.com",
+    "password": "$2a$10$k94DW30RSLrmprpANYBQJuh8.0rNKk.y63rihCkDVxT0fVPjJRHSK",
+    "is_admin": false,
+    "is_banned": false
+  },
+  {
+    "id": "usr_20261026212815",
+    "name": "dgdgd",
+    "email": "dgdgd@gdh.com",
+    "password": "$2a$10$ULmYWZEmUimUMLUhN/Glte7tkbKW1VZmaOkSjtHvr4C..Hp16DZue",
+    "is_admin": false,
+    "is_banned": false
+  },
+  {
+    "id": "usr_20261026213321",
+    "name": "dgffhfh",
+    "email": "gdfhfg@ghd.com",
+    "password": "$2a$10$Stvr1ekN6Zf2dVgVnNGcjO0epgRyM5aSrhGb9/gR0C7WbngcAsDzi",
+    "is_admin": false,
+    "is_banned": true
+  },
+  {
+    "id": "usr_20261026213700",
+    "name": "dgffh@gdg.com",
+    "email": "ddghf@ghdg.com",
+    "password": "$2a$10$h.XEkE/I8ydhENOAxV9S1.T9EsY6ZwW7AXgpYFEewd5OsbXoOPtEq",
+    "is_admin": false,
+    "is_banned": true
+  },
+  {
+    "id": "usr_20261026213744",
+    "name": "dgffh",
+    "email": "dgfhg@ghd.com",
+    "password": "$2a$10$Qpv8xffoZiDqHvgQWBwZluL4Rp6k.zIH4F1jvKO52AMPuR4tkMuva",
+    "is_admin": false,
+    "is_banned": true
+  },
+  {
+    "id": "usr_20261026220729",
+    "name": "dgffhfh",
+    "email": "sgdhdg@ghd.com",
+    "password": "$2a$10$MmlbrffP2Doa51cW3nA2hudaS/76DyzGUBPuajuaVubSnfBnN0QqC",
+    "is_admin": false,
+    "is_banned": true
+  },
+  {
+    "id": "usr_20261026221927",
+    "name": "Mohamad mellal",
+    "email": "mohamadmellal@ddgdh.com",
+    "password": "$2a$10$Ityw8.dS8soFJStp1J/O0ehEJQ/.03vj.NObzTsoa9Dy4bP9R/jHm",
+    "is_admin": false,
+    "is_banned": false
+  }
+]

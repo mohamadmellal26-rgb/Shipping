@@ -1,0 +1,13 @@
+/home/mohamad/Development/shopping/Shipping/frontend/build/linux/x64/debug/bundle/shipping
+/home/mohamad/Development/shopping/Shipping/frontend/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/mohamad/Development/shopping/Shipping/frontend/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/mohamad/Development/shopping/Shipping/frontend/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/mohamad/Development/shopping/Shipping/frontend/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/mohamad/Development/shopping/Shipping/frontend/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/mohamad/Development/shopping/Shipping/frontend/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/mohamad/Development/shopping/Shipping/frontend/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/mohamad/Development/shopping/Shipping/frontend/build/linux/x64/debug/bundle/data/flutter_assets/shaders/stretch_effect.frag
+/home/mohamad/Development/shopping/Shipping/frontend/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/mohamad/Development/shopping/Shipping/frontend/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/mohamad/Development/shopping/Shipping/frontend/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/mohamad/Development/shopping/Shipping/frontend/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
